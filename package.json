@@ -1,0 +1,14 @@
+{
+  "name": "encoding-server",
+  "version": "0.0.0",
+  "description": "Proxy for WMDRM licenseencoding server",
+  "main": "server.coffee",
+  "repository": "git@github.com:ushfnuk/encoding-server.git",
+  "author": "Apfelsinchen Ritter",
+  "dependencies": {
+    "coffee-script": "~1.10.0",
+    "mimetype": "~0.0.5",
+    "underscore": "~1.5.1",
+    "request": "~2.27.0"
+  }
+}
